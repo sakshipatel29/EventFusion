@@ -16,6 +16,14 @@ export default function Home() {
               </Link>
             </Button>
           </div>
+          <Image src='/assets/images/hero.png' alt='hero' width={1000} height={1000} className="max-h-[70vh] object-contain object-center 2xl:max-h-[50vh]"/>
+        </div>
+      </section>
+      <section id="events" className="wrapper my-8 flex flex-col gap-8 md:gap-12">
+        <h2 className="h2-bold">Trusted by <br />Thousands of Events</h2>
+        <div className="flex flex-col w-full gap-6 md:flex-row">
+          Search
+          Categories
         </div>
       </section>
     </>
