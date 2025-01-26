@@ -64,6 +64,7 @@
     "svix": "^1.45.1",
     "tailwind-merge": "^2.6.0",
     "tailwindcss-animate": "^1.0.7",
+    "ts-node": "^10.9.2",
     "uploadthing": "^7.4.4",
     "vaul": "^1.1.2",
     "zod": "^3.24.1"
@@ -72,9 +73,9 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "next": "^15.1.6",
     "postcss": "^8",
     "tailwindcss": "^3.4.1",
-    "typescript": "^5",
-    "next": "^15.1.6"
+    "typescript": "^5"
   }
 }
